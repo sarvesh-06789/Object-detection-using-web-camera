@@ -172,3 +172,6 @@ else:
 ## Output
 
 <img width="943" height="710" alt="image" src="https://github.com/user-attachments/assets/c8071aa2-7946-44bf-966d-c08929c69fb8" />
+
+Result:
+The laptop camera was successfully accessed using OpenCV, and an image was captured after 5 seconds. The captured image was then processed using the YOLOv8 object detection model. YOLOv8 successfully detected the object present in the image and displayed it with a bounding box and label. Thus, the experiment successfully demonstrated object detection using a laptop camera and YOLOv8.
